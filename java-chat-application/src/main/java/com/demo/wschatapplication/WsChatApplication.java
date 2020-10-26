@@ -1,4 +1,4 @@
-package com.codeforgeyt.wschatapplication;
+package com.demo.wschatapplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
